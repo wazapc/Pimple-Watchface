@@ -3,14 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "wazapc@gmail.com",
-    "longName": "Tutorial 2 - Customization",
+    "companyName": "Agetwozero",
+    "longName": "Pimple Watchface",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "2",
-    "shortName": "Tutorial 2 - Customization",
+    "shortName": "Pimple",
     "uuid": "2db94b16-659a-48cc-a406-a3527065709f",
     "versionCode": 1,
     "versionLabel": "1.0",
